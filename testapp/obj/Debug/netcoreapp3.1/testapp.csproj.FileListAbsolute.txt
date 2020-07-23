@@ -1,0 +1,13 @@
+C:\Users\pagang\Documents\BDP\myfirstbdprepo\firstbdprepo\testapp\bin\Debug\netcoreapp3.1\testapp.exe
+C:\Users\pagang\Documents\BDP\myfirstbdprepo\firstbdprepo\testapp\bin\Debug\netcoreapp3.1\testapp.deps.json
+C:\Users\pagang\Documents\BDP\myfirstbdprepo\firstbdprepo\testapp\bin\Debug\netcoreapp3.1\testapp.runtimeconfig.json
+C:\Users\pagang\Documents\BDP\myfirstbdprepo\firstbdprepo\testapp\bin\Debug\netcoreapp3.1\testapp.runtimeconfig.dev.json
+C:\Users\pagang\Documents\BDP\myfirstbdprepo\firstbdprepo\testapp\bin\Debug\netcoreapp3.1\testapp.dll
+C:\Users\pagang\Documents\BDP\myfirstbdprepo\firstbdprepo\testapp\bin\Debug\netcoreapp3.1\testapp.pdb
+C:\Users\pagang\Documents\BDP\myfirstbdprepo\firstbdprepo\testapp\obj\Debug\netcoreapp3.1\testapp.csprojAssemblyReference.cache
+C:\Users\pagang\Documents\BDP\myfirstbdprepo\firstbdprepo\testapp\obj\Debug\netcoreapp3.1\testapp.csproj.CoreCompileInputs.cache
+C:\Users\pagang\Documents\BDP\myfirstbdprepo\firstbdprepo\testapp\obj\Debug\netcoreapp3.1\testapp.AssemblyInfoInputs.cache
+C:\Users\pagang\Documents\BDP\myfirstbdprepo\firstbdprepo\testapp\obj\Debug\netcoreapp3.1\testapp.AssemblyInfo.cs
+C:\Users\pagang\Documents\BDP\myfirstbdprepo\firstbdprepo\testapp\obj\Debug\netcoreapp3.1\testapp.dll
+C:\Users\pagang\Documents\BDP\myfirstbdprepo\firstbdprepo\testapp\obj\Debug\netcoreapp3.1\testapp.pdb
+C:\Users\pagang\Documents\BDP\myfirstbdprepo\firstbdprepo\testapp\obj\Debug\netcoreapp3.1\testapp.genruntimeconfig.cache
